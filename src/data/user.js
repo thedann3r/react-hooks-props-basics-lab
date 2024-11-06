@@ -1,3 +1,4 @@
+import Home from "../components/Home";
 const user = {
   name: "Liza",
   city: "New York",
